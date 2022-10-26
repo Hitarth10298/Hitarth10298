@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Hitarth10298
+- 👀 I’m interested in AI/ML, Data related roles (Data Science, Data Analytics) and DevOps. 
+- 🌱 I’m currently brushing up my coding skills in Python and actively looking for Full-Time Opportunities. 
+- 💞️ I’m looking to collaborate on any projects related to DS/DA or Machine Learning or DevOps. 
+- 📫 How to reach me? Feel free to reach out to me on LinkedIn. Here's my profile link to reach out to me : https://www.linkedin.com/in/hitarthshah1/
